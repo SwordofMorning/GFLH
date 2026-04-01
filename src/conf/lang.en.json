@@ -1,0 +1,18 @@
+{
+    "app_title": "GFLH",
+    "cfg_group": "1. User & Server Configuration",
+    "uid": "User UID:",
+    "sign": "Sign Key:",
+    "server": "Server URL:",
+    "btn_capture": "Auto Capture Keys",
+    "btn_stop_capture": "Stop Capture",
+    "lang": "Language:",
+    "mon_group": "2. Network Monitor",
+    "btn_start_mon": "Start Monitor",
+    "btn_stop_mon": "Stop Monitor",
+    "train_group": "3. Target Train Injection",
+    "enemy_ids": "Target Enemies (Comma separated):",
+    "order_ids": "Order IDs (Comma separated):",
+    "btn_inject": "Run Injection",
+    "log_console": "Console Log:"
+}
