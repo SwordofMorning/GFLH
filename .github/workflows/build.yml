@@ -40,12 +40,12 @@ jobs:
         shell: bash
         run: |
           mkdir -p upload_stage
-          cp -r dist/GF1Alarm "upload_stage/GF1Alarm-win-x86_64"
+          cp -r dist/GFLH "upload_stage/GFLH-win-x86_64"
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: GF1Alarm-win-x86_64
+          name: GFLH-win-x86_64
           path: upload_stage
 
   release:
